@@ -1,2 +1,2 @@
 # furby-connect-testing
-testing stuff
+pretty much testing a project i want to make soon, it's going to be (if it gets made) a Furby connect compatible version of my other project "Furby-KABOOM". this project will eventually (if made) be called "Furby Re-Connect", it will bring back the updating system and bring unused features from the original app to life (like the cleaning station, the totem pole, minigames, etc.), and it will bring back the theater, but this time it won't run off a server
